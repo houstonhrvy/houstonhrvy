@@ -1,8 +1,6 @@
 <div align="center">
 
-
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa20wZHdxdnpjZ3d5MXR1bnNiNzdlYmxhdmg3NTkyZGplNG85ODF2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Myqrnu6zNS61KC4LgF/giphy.gif" width="680"/>
-
+<img src="./eva-pixel.gif" width="680"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1200&color=FF6600&center=true&vCenter=true&repeat=true&width=540&lines=UNIT-01+%3E+ONLINE...;Hi%2C+I%27m+Houston+Harvey;Full+Stack+Dev;Based+in+the+Philippines" alt="Typing SVG" />
 
@@ -22,7 +20,7 @@
 
 ### about me
 
-BSIT grad from OLSHCO &nbsp;·&nbsp; Web Developer at **Telex PH** &nbsp;·&nbsp; building clean, fast, and responsive web apps. Frontend-focused, comfortable end-to-end.
+BSIT grad from OLSHCO, Olongapo &nbsp;·&nbsp; Web Developer at **Telex PH** &nbsp;·&nbsp; building clean, fast, and responsive web apps. Frontend-focused, comfortable end-to-end.
 
 ---
 
