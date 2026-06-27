@@ -24,7 +24,7 @@
 
 ### about me
 
-BSIT grad from OLSHCO, Olongapo &nbsp;·&nbsp; Web Developer at **Telex PH** &nbsp;·&nbsp; building clean, fast, and responsive web apps. Frontend-focused, comfortable end-to-end.
+BSIT grad from OLSHCO, &nbsp;·&nbsp; Web Developer at **Telex PH** &nbsp;·&nbsp; building clean, fast, and responsive web apps. Frontend-focused, comfortable end-to-end.
 
 ---
 
